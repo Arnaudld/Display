@@ -2,7 +2,7 @@
 
 This is where weekly relevant information is displayed
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![GitHub Logo](/images/logo.png)
 
 ### Markdown
 
