@@ -2,7 +2,7 @@
 
 This is where weekly relevant information is displayed
 
-![GitHub Logo](/Users/Arnaud/Desktop/SA606886.JPG)
+![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fville.montreal.qc.ca%2Fmemoiresdesmontrealais%2Ffiles%2Fle-312-rue-ontario-est&psig=AOvVaw1iNNQMrthFM22s8S6E9GDG&ust=1630613450243000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDww8_K3vICFQAAAAAdAAAAABAJ)
 
 ### Markdown
 
