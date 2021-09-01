@@ -2,7 +2,7 @@
 
 This is where weekly relevant information is displayed
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Users/Arnaud/Desktop/SA606886.JPG)
 
 ### Markdown
 
