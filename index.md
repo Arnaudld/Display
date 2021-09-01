@@ -2,7 +2,7 @@
 
 This is where weekly relevant information is displayed
 
-![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fville.montreal.qc.ca%2Fmemoiresdesmontrealais%2Ffiles%2Fle-312-rue-ontario-est&psig=AOvVaw1iNNQMrthFM22s8S6E9GDG&ust=1630613450243000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDww8_K3vICFQAAAAAdAAAAABAJ)
+![GitHub Logo](https://ville.montreal.qc.ca/memoiresdesmontrealais/sites/default/files/40_p43s3ss2v24-e220-023.jpg)
 
 ### Markdown
 
